@@ -1,4 +1,4 @@
-<h1># navbar-simple</h1>
+<h1> Navbar Simple</h1>
 
 <h2>This project was developed with:</h2>
 
