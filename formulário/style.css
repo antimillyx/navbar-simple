@@ -1,0 +1,11 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.minha-imagem{
+    width: 300px;        /* tamanho */
+  height: auto;        /* mantém proporção */
+  border-radius: 20px; /* deixa mais arredondado */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* sombra */
+  margin-top: 20px; 
+}
